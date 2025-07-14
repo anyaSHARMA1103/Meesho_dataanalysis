@@ -4,9 +4,6 @@
 
 This project presents an interactive **Power BI dashboard** built using order data from Meesho (sourced via Kaggle). It explores order trends, status distribution, revenue patterns, and regional performance.
 
-
-<img width="1805" height="1004" alt="Screenshot 2025-07-14 085453" src="https://github.com/user-attachments/assets/210e171d-e739-4468-b0f2-fcb26cf7a670" />
-
 Contains fields like:
 - `order_date`
 - `order_status`
@@ -16,9 +13,8 @@ Contains fields like:
 
 ---
 
-## 📊 Power BI Dashboard Overview
-
-![Dashboard Preview](dashboard_screenshot.png)
+##  Power BI Dashboard Overview
+<img width="1805" height="1004" alt="Screenshot 2025-07-14 085453" src="https://github.com/user-attachments/assets/210e171d-e739-4468-b0f2-fcb26cf7a670" />
 
 ## Key Insights:
 -  Total Revenue, Order Count, GST Collected
